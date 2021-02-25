@@ -10,9 +10,9 @@ contact_link: https://lbageant17.github.io/lbageant.github.io/cv
 linkedin_name: LinkedIn/OleHHVik
 linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
-  - years: 2015-
-    name: Research Assistant
-    location: Norwegian School of Economics
+  - years: 2014-
+    name: Research Support Specialist
+    location: Cornell University
     description: Quantitative work including data management, model estimation, and programming in Python.
   - years: 2015-
     name: Substitute Teacher
