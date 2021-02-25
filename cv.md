@@ -1,6 +1,6 @@
 ---
 title: CV
-summary: "Ole Vik's Resume"
+summary: "CV"
 cv_title: Elizabeth R. Bageant
 cv_subtitle: Research Support Specialist
 location: Ithaca, New York
